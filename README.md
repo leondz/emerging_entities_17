@@ -31,6 +31,6 @@ Send pull requests to submit annotation amendments.
 
 If you use this data, please recognize our hard work and cite the relevant paper:
 
-Leon Derczynski, Eric Nichols, Marieke van Erp, Nut Limsopatham; 2017. **Results of the WNUT2017 Shared Task on Novel and Emerging Entity Recognition**. In *Proceedings of the Workshop on Noisy, User-generated Text*, at EMNLP. [[pdf](https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwje6Yvu--_VAhXMiRoKHWyiApkQFggnMAA&url=http%3A%2F%2Fnoisy-text.github.io%2F2017%2Fpdf%2FWNUT18.pdf&usg=AFQjCNE5x3KBc8u63Y6xF0JhRvhtOylMCA)]
+Leon Derczynski, Eric Nichols, Marieke van Erp, Nut Limsopatham; 2017. **Results of the WNUT2017 Shared Task on Novel and Emerging Entity Recognition**. In *Proceedings of the Workshop on Noisy, User-generated Text*, at EMNLP. [[pdf](http://noisy-text.github.io/2017/pdf/WNUT18.pdf)]
 
 
