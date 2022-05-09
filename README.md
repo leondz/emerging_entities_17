@@ -6,7 +6,7 @@ The goal is to provide high-variance data, with very few repeated surface forms.
 
 If you'd like to read the full paper, it's here: [Results of the WNUT2017 Shared Task on Novel and Emerging Entity Recognition](http://www.derczynski.com/sheffield/papers/emerging-wnut.pdf)
 
-There's a loader for the dataset on [🤗](https://huggingface.co/datasets/wnut_17)
+There's a loader for the dataset on 🤗: [`wnut_17`](https://huggingface.co/datasets/wnut_17)
 
 ## Data description
 
